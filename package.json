@@ -1,0 +1,11 @@
+{
+  "name": "top.kuanmi.VolumetricLighting",
+  "author": "KuanMi",
+  "displayName": "VolumetricLighting",
+  "version": "1.0.0",
+  "unity": "2022.1",
+  "description": "VolumetricLighting for URP",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "13.1.8"
+  }
+}
